@@ -1,13 +1,15 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
+
 project:
   id: 4b836964-53cd-4483-aa8b-8bebae075c83
-  # title:
-  # description:
-  # keywords: []
-  # authors: []
-  # github:
+  title: rndsrc.io
+  description: Chi-kwan "CK" Chan's website
+  keywords: [Computational Astrophysics, AI for Science, Gravitation, Visualization, Radio Astronomy]
+  authors: [Chi-kwan Chan]
+  github: rndsrc/rndsrc.io
   # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+
 site:
   template: book-theme
   # options:
