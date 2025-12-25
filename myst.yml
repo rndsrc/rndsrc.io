@@ -21,6 +21,12 @@ site:
   nav:
     - title: Home
       url: /index
+    - title: Research
+      children:
+        - title: Google Scholar
+          url: https://scholar.google.com/citations?hl=en&user=27yWbOYAAAAJ
+        - title: NASA ADS
+          url: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6337-6126&sort=date+desc
     - title: In the News
       url: /news
 
