@@ -11,6 +11,7 @@ project:
 
   toc:
     - file: index.md
+    - file: bio.md
     - title: Research
       children:
         - title: Google Scholar
@@ -39,6 +40,8 @@ site:
   nav:
     - title: rndsrc.io
       url: /index
+    - title: Biography
+      url: /bio
     - title: Research
       children:
         - title: Google Scholar
