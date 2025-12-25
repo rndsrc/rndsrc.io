@@ -16,6 +16,7 @@ project:
 
 site:
   template: book-theme
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+
+  options:
+    favicon: assets/images/rndsrc-64.png
+    logo: assets/images/rndsrc-64.png
