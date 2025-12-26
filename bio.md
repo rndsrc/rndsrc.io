@@ -61,35 +61,36 @@ scientific visualization,
 ## Honors and Awards
 
 * 2025&emsp;The Biggest Scientific Breakthroughs of the Last 25 years, National Geographic
-
 * 2025&emsp;Frontiers of Science Award
-
 * 2021&emsp;EHT Early Career Award
-
 * 2021&emsp;Royal Astronomical Society Group Award
-
 * 2020&emsp;Breakthrough Prize in Fundamental Physics
-
 * 2020&emsp;Nelson P. Jackson Aerospace Award
-
 * 2020&emsp;Bruno Rossi Prize
-
 * 2020&emsp;Einstein Medal
-
 * 2019&emsp;Special Congressional Recognition (U.S. Senate)
-
 * 2019&emsp;Special Congressional Recognition (U.S. House)
-
 * 2019&emsp;American Ingenuity Award in Physical Sciences
-
 * 2019&emsp;NSF Diamond Achievement Award
-
 * 2019&emsp;Breakthrough of the Year, Science Magazine
-
 * 2019&emsp;\#1 Science Image of the Year, Nature Magazine
-
 * 2019&emsp;\#1 Scientific Moments that Defined 2019, Popular Mechanics
-
 * 2010&ndash;2012&emsp;NORDITA Fellowship
-
 * 2007&ndash;2010&emsp;Harvard ITC Fellowship
+
+
+## Publications
+
+List of publications in
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=27yWbOYAAAAJ) and
+[NASA ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6337-6126&sort=date+desc).
+
+
+## Software
+
+* [GitHub Profile](https://github.com/rndsrc)
+* [AI Research](https://github.com/airsrc)
+* [AutoDiff Applications](https://github.com/adxsrc)
+* [Computational Interferometry (foci)](https://github.com/focisrc)
+* [Self-Optimized Algorithms (lux)](https://github.com/luxsrc)
+* [Scalable Computing (laniakea)](https://github.com/l6a)
