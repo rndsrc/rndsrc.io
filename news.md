@@ -5,7 +5,79 @@ short_title: News
 
 ![Arizona EHT Group](assets/images/group_2022.webp)
 
+## M87* Magnetic Fields
+
+* "Astronomers Watched a Black Hole Unexpectedly Flip Its Magnetic Field, Challenging Theoretical Models"
+  2025/09/26
+  [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/astronomers-watched-a-black-hole-unexpectedly-flip-its-magnetic-field-challenging-theoretical-models-180987397/)
+
+* "This black hole flipped its magnetic field"
+  2025/09/23
+  [Science News](https://www.sciencenews.org/article/m87-black-hole-flipped-magnetic-field)
+
+* "New images reveal clues about the feeding habits of black holes"
+  2025/09/16
+  [UA News](https://news.arizona.edu/news/new-images-reveal-clues-about-feeding-habits-black-holes),
+  [Steward News](https://astro.arizona.edu/news/new-images-reveal-clues-about-feeding-habits-black-holes)
+
+## AI for Black Hole
+
+* "Milky Way’s central black hole spins at nearly light speed, study finds"
+  2025/06/26
+  [The Brighter Side](https://www.thebrighterside.news/post/milky-ways-central-black-hole-spins-at-nearly-light-speed-study-finds/)
+
+* "Is Our Black Hole Defying Physics? New AI Study Challenges Theories"
+  2025/06/19
+  [NDTV](https://www.ndtv.com/science/is-our-black-hole-defying-physics-new-ai-study-challenges-theories-8711147)
+
+* "AI Uncovers Wild Spin of the Milky Way’s Supermassive Black Hole"
+  2025/06/16
+  [SciTechDaily](https://scitechdaily.com/ai-uncovers-wild-spin-of-the-milky-ways-supermassive-black-hole/)
+
+* "AI Reveals Milky Way’s Black Hole Spins Near Top Speed"
+  2025/06/15
+  [Science Daily](https://www.sciencedaily.com/releases/2025/06/250614121952.htm)
+
+* "Astronomers Are Using Artificial Intelligence to Unlock the Secrets of Black Holes"
+  2025/06/11
+  [Wired](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)
+
+* "AI Reveals Rapid Spin of Sagittarius A Black Hole"
+  2025/06/09
+  [AZO Quantum](https://www.azoquantum.com/News.aspx?newsID=10825)
+
+* "Self-learning neural network cracks iconic black holes"
+  2025/06/06
+  [UA News](https://astro.arizona.edu/news/self-learning-neural-network-cracks-iconic-black-holes),
+  [USC Viterbi](https://viterbischool.usc.edu/news/2025/06/self-learning-neural-network-cracks-iconic-black-holes/)
+
+* "Throughput computing enables astronomers to use AI to decode iconic black holes"
+  2025/06/06
+  [EurekaAlert!](https://www.eurekalert.org/news-releases/1086641)
+
+## Scientific Discovery with AI:
+
+* "Scientific Discovery with AI: Unlocking the Secrets of the Universe"
+  2024
+  [OpenAI Forum](https://bit.ly/openai-talk-2024)
+
+## Sgr A* Polarization
+
+* "Astronomers capture magnetic fields twirling around black hole"
+  2024/03/27
+  [UA News](https://news.arizona.edu/news/astronomers-capture-magnetic-fields-twirling-around-black-hole)
+
+## Magazine: Data Connects Us 2023
+
+* "Black Hole by the Millions"
+  2023
+  [UA Research and Partnerships](https://research.arizona.edu/about/magazines/data-connects-us)
+
 ## First Images of the Galactic Center Black Hole (EHT's First Result on Sgr A*)
+
+* "First images of black hole at the centre of our galaxy"
+  2023/03/16
+  [Croucher Foundation](https://croucher.org.hk/en/news/first-images-of-black-hole-at-the-centre-of-our-galaxy)
 
 * "Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy"
   [EHT Website](https://eventhorizontelescope.org/blog/astronomers-reveal-first-image-black-hole-heart-our-galaxy),
@@ -109,8 +181,11 @@ short_title: News
   2019/04/17
   [Tucson Local Media](https://www.tucsonlocalmedia.com/news/article_9aa26a62-5bb4-11e9-b8f7-1748e0f95ab8.html)
 * 『天文史上黑洞首照片 印證相對論』
-  1029/04/16
+  2029/04/16
   [都市日報](https://www.metrodaily.hk/metro_news/天文史上黑洞首照片-印證相對論/)
+* "Black Hole Modeling in Research Data Center"
+  2019/04/15
+  [UITS](https://it.arizona.edu/news/black-hole-modeling-research-data-center)
 * 『港人參與攝黑洞 由石圍角圖書館 走向5500萬光年』
   2019/04/14
   [明報 a](https://news.mingpao.com/pns/港聞/article/20190414/s00002/1555179555836/港人參與攝黑洞-由石圍角圖書館-走向5500萬光年),
@@ -219,3 +294,9 @@ short_title: News
   2012/03/28
   [Physics Review E Kaleidoscope](https://journals.aps.org/pre/kaleidoscope/pre/85/3/036315),
   [Backreaction](http://backreaction.blogspot.com/2012/10/turbulence-in-2-dimensional-box-pretty.html)
+
+## Bike Across America
+
+* "Telescopes for the People"
+  2010/04/16
+  [Science](https://www.science.org/doi/10.1126/science.328.5976.296-a)
