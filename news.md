@@ -3,7 +3,7 @@ title: In the News
 short_title: News
 ---
 
-![Arizona EHT Group](assets/images/group.jpg)
+![Arizona EHT Group](assets/images/group_2022.jpg)
 
 ## First Images of the Galactic Center Black Hole (EHT's First Result on Sgr A*)
 
