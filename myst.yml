@@ -48,5 +48,6 @@ site:
   options:
     hide_toc: true
     hide_authors: true
-    favicon: assets/images/rndsrc-64.png
-    logo: assets/images/rndsrc-64.png
+    favicon: assets/images/rndsrc.svg
+    logo: assets/images/rndsrc.svg
+    logo_dark: assets/images/rndsrc_dark.svg
