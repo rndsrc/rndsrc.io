@@ -45,6 +45,10 @@ site:
     - title: News
       url: /news
 
+  actions:
+    - title: CV
+      url: assets/ckc_cv.pdf
+
   options:
     hide_toc: true
     hide_authors: true
