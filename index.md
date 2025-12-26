@@ -1,6 +1,5 @@
 ---
-title: Chi-kwan "CK" Chan, PhD
-short_title: Home
+title: Home
 site:
   hide_toc: true
   hide_outline: true
