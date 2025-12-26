@@ -35,6 +35,7 @@ supercomputers.
 Avid hiker; biked across the continental United States on the
 TransAmerica Trail.
 
+
 ## Research Interests
 
 *AI \& Machine Learning for Science*:
@@ -55,3 +56,40 @@ very long baseline interferometry.\
 scientific visualization,
 [VR/AR](https://youtu.be/tfDO88R1jTw), and
 [interactive simulations](https://youtu.be/XgHGoEm2g1g).
+
+
+## Honors and Awards
+
+* 2025&emsp;The Biggest Scientific Breakthroughs of the Last 25 years, National Geographic
+
+* 2025&emsp;Frontiers of Science Award
+
+* 2021&emsp;EHT Early Career Award
+
+* 2021&emsp;Royal Astronomical Society Group Award
+
+* 2020&emsp;Breakthrough Prize in Fundamental Physics
+
+* 2020&emsp;Nelson P. Jackson Aerospace Award
+
+* 2020&emsp;Bruno Rossi Prize
+
+* 2020&emsp;Einstein Medal
+
+* 2019&emsp;Special Congressional Recognition (U.S. Senate)
+
+* 2019&emsp;Special Congressional Recognition (U.S. House)
+
+* 2019&emsp;American Ingenuity Award in Physical Sciences
+
+* 2019&emsp;NSF Diamond Achievement Award
+
+* 2019&emsp;Breakthrough of the Year, Science Magazine
+
+* 2019&emsp;\#1 Science Image of the Year, Nature Magazine
+
+* 2019&emsp;\#1 Scientific Moments that Defined 2019, Popular Mechanics
+
+* 2010&ndash;2012&emsp;NORDITA Fellowship
+
+* 2007&ndash;2010&emsp;Harvard ITC Fellowship
