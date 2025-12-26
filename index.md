@@ -7,10 +7,10 @@ site:
   hide_title_block: true
 ---
 
-+++ { "kind": "split-image" }
-
-## Chi-kwan "CK" Chan, PhD
++++ {"kind": "centered"}
 
 Computational Astrophysicist | Tinker | Hiker | Dad
 
-![Profile](assets/images/ckc_2011.jpg)
+## Chi-kwan "CK" Chan, PhD
+
+![Profile](assets/movies/jet.mp4)
