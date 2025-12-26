@@ -7,3 +7,5 @@ site:
 ---
 
 Computational Astrophysicist | Tinker | Hiker | Dad
+
+{button}`Download CV <assets/chan-cv.pdf>`
