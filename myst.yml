@@ -12,35 +12,15 @@ project:
   toc:
     - file: index.md
     - file: bio.md
-    - title: Research
-      children:
-        - title: Google Scholar
-          url: https://scholar.google.com/citations?hl=en&user=27yWbOYAAAAJ
-        - title: NASA ADS
-          url: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-6337-6126&sort=date+desc
-    - title: Development
-      children:
-        - title: GitHub Profile
-          url: https://github.com/rndsrc
-        - title: AI Research
-          url: https://github.com/airsrc
-        - title: AutoDiff Applications
-          url: https://github.com/adxsrc
-        - title: Computational Interferometry
-          url: https://github.com/focisrc
-        - title: Self-Optimized Algorithms
-          url: https://github.com/luxsrc
-        - title: Scalable Computing
-          url: https://github.com/l6a
     - file: news.md
 
 site:
   template: book-theme
 
   nav:
-    - title: rndsrc.io
+    - title: Home
       url: /index
-    - title: Biography
+    - title: About
       url: /bio
     - title: Research
       children:
@@ -62,10 +42,11 @@ site:
           url: https://github.com/luxsrc
         - title: Scalable Computing
           url: https://github.com/l6a
-    - title: In the News
+    - title: News
       url: /news
 
   options:
+    hide_toc: true
     hide_authors: true
     favicon: assets/images/rndsrc-64.png
     logo: assets/images/rndsrc-64.png

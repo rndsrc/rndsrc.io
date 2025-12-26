@@ -1,6 +1,6 @@
 ---
 title: Chi-kwan "CK" Chan, PhD
-short_title: Biography
+short_title: About
 ---
 
 *Google Scholar Rank*:

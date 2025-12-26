@@ -1,6 +1,6 @@
 ---
 title: Chi-kwan "CK" Chan, PhD
-short_title: rndsrc.io
+short_title: Home
 site:
   hide_toc: true
   hide_outline: true

@@ -1,5 +1,6 @@
 ---
 title: In the News
+short_title: News
 ---
 
 ![Arizona EHT Group](assets/images/group.jpg)
