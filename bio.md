@@ -3,7 +3,9 @@ title: Chi-kwan "CK" Chan, PhD
 short_title: About
 ---
 
-{button}`Full CV in PDF <assets/ckc_cv.pdf>`
+{button}`Full CV <assets/ckc_cv.pdf>`
+{button}`Papers <https://scholar.google.com/citations?hl=en&user=27yWbOYAAAAJ>`
+{button}`Codes  <https://github.com/rndsrc>`
 
 *Google Scholar Rank*:
 Computational astrophysics **#21**,
