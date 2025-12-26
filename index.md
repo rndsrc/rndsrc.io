@@ -1,13 +1,9 @@
 ---
-title: rndsrc.io
+title: Chi-kwan "CK" Chan, PhD
+short_title: rndsrc.io
 site:
   hide_toc: true
   hide_outline: true
-  hide_title_block: true
 ---
-
-<br/>
-
-# Chi-kwan "CK" Chan, PhD
 
 Computational Astrophysicist | Tinker | Hiker | Dad

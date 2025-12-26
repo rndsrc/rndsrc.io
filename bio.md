@@ -1,14 +1,7 @@
 ---
-title: Biography
-site:
-  hide_toc: true
-  hide_outline: true
-  hide_title_block: true
+title: Chi-kwan "CK" Chan, PhD
+short_title: Biography
 ---
-
-<br/>
-
-# Chi-kwan "CK" Chan, PhD
 
 *Google Scholar Rank*:
 Computational astrophysics **#21**,

@@ -66,5 +66,6 @@ site:
       url: /news
 
   options:
+    hide_authors: true
     favicon: assets/images/rndsrc-64.png
     logo: assets/images/rndsrc-64.png

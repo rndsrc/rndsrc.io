@@ -1,14 +1,6 @@
 ---
 title: In the News
-site:
-  hide_toc: true
-# hide_outline: true
-  hide_title_block: true
 ---
-
-<br/>
-
-# In the News
 
 ![Arizona EHT Group](assets/images/group.jpg)
 
