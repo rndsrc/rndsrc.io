@@ -15,4 +15,4 @@ Computational Astrophysicist | Tinker | Hiker | Dad
 
 ![Profile](assets/images/ckc_2011.jpg)
 
-{button}`Curriculum Vitae <assets/chan-cv.pdf>`
+{button}`Curriculum Vitae <assets/ckc_cv.pdf>`
