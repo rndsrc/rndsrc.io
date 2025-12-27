@@ -16,7 +16,7 @@ Radio Astronomy            **#39**;
 *i10-index*:    **82**;
 *publications*: **110+**.
 
-```{grid} 1 1 2 2
+```{grid} 1 2 2 2
 
 Continuing status (tenure-equivalent) Computational Astrophysicist and
 AI-for-Science researcher working at the intersection of machine
@@ -71,7 +71,7 @@ TransAmerica Trail.
 
 ## Family and Outdoor
 
-```{grid} 1 1 2 2
+```{grid} 1 2 2 2
 
 I am a dad of two.
 My wife and I met in Boston, and we enjoys spending time outdoors.

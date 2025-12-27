@@ -311,7 +311,7 @@ short_title: News
 
 ## Condensation in Two-Dimensional Turbulence
 
-```{grid} 1 1 2 2
+```{grid} 1 2 2 2
 
 * "Dynamics of saturated energy condensation in two-dimensional turbulence"
   2012/03/28
