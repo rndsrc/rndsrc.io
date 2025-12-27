@@ -326,12 +326,6 @@ short_title: News
 
 ## Bike Across America
 
-```{grid} 1 1 2 2
-
 * "Telescopes for the People"
   2010/04/16
   [Science](https://www.science.org/doi/10.1126/science.328.5976.296-a)
-
-![Profile](assets/images/ckc_2011.webp)
-
-```

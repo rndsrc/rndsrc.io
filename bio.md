@@ -67,3 +67,38 @@ TransAmerica Trail.
 * 2019&emsp;\#1 Scientific Moments that Defined 2019, Popular Mechanics
 * 2010&ndash;2012&emsp;NORDITA Fellowship
 * 2007&ndash;2010&emsp;Harvard ITC Fellowship
+
+
+## Family and Outdoor
+
+I am a dad of two.
+My wife and I met in Boston, and we enjoys spending time outdoors.
+My connection to the outdoors began early.
+Growing up in a working-class family in Hong Kong, my father often
+took our family hiking and fishing on weekends.
+Simple, affordable outings that became some of my fondest memories.
+I was a
+[Scout](https://www.facebook.com/tw8scout)
+as a teenager, where I developed outdoor and leadership skills that
+continue to shape how I engage with the outdoors.
+
+```{grid} 1 1 2 2
+
+![Profile](assets/images/ckc_2011.webp)
+
+After moving to the United States, I continued these activities, often
+organizing hiking and camping trips with friends.
+In the summer of 2010, I spent two months
+[biking across the United States](https://bikexus.blogspot.com/)
+between my ITC Fellowship at the
+[Center for Astrophysics | Harvard & Smithsonian](https://www.cfa.harvard.edu/)
+and my Nordita Fellowship at the
+[Nordic Institute for Theoretical Physics](https://nordita.org/).\
+\
+Most recently, I joined
+[Troop 211 in Arizona](https://www.instagram.com/troop211az),
+where my boys are now Scouts, allowing our family to share time
+outdoors while passing along practical skills and a spirit of
+exploration.
+
+```
