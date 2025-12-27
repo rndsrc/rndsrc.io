@@ -4,8 +4,6 @@ short_title: About
 ---
 
 {button}`Full CV <assets/ckc_cv.pdf>`
-{button}`Papers <https://scholar.google.com/citations?hl=en&user=27yWbOYAAAAJ>`
-{button}`Codes  <https://github.com/rndsrc>`
 
 *Google Scholar Rank*:
 Computational astrophysics **#21**,
@@ -18,12 +16,18 @@ Radio Astronomy            **#39**;
 *i10-index*:    **82**;
 *publications*: **110+**.
 
+```{grid} 1 1 2 2
+
 Continuing status (tenure-equivalent) Computational Astrophysicist and
 AI-for-Science researcher working at the intersection of machine
 learning and large-scale scientific computing.
-Faculty member in Astronomy, Data Science, and Applied Mathematics.
-Leader of the Event Horizon Telescope (EHT) Collaboration, a
-large-scale international consortium recognized for imaging black
+Faculty member in
+[Astronomy](https://astro.arizona.edu/person/chi-kwan-ck-chan),
+Data Science, and
+[Applied Mathematics](https://appliedmath.arizona.edu/person/chi-kwan-chan).
+Leader of the
+[Event Horizon Telescope (EHT) Collaboration](https://eventhorizontelescope.org/),
+a large-scale international consortium recognized for imaging black
 holes, and architect of its computational and data-processing
 infrastructure.
 Developed scalable algorithms and AI-driven methods to accelerate
@@ -32,13 +36,19 @@ from petabyte-scale datasets.
 Principal Investigator of EHT-MOVIE, aimed to produce the first
 time-resolved movies of black holes.
 Department of Energy INCITE reviewer; evaluated AI-and
-simulation-driven projects for access to the world’s most powerful
+simulation-driven projects for access to the world's most powerful
 supercomputers.
 Avid hiker; biked across the continental United States on the
 TransAmerica Trail.
 
+![Profile](assets/images/ckc_2022b.webp)
+
+```
+
 
 ## Honors and Awards
+
+![NSF](assets/images/ckc_2022c.webp)
 
 * 2025&emsp;The Biggest Scientific Breakthroughs of the Last 25 years, National Geographic
 * 2025&emsp;Frontiers of Science Award
