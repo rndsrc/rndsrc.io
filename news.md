@@ -3,18 +3,25 @@ title: In the News
 short_title: News
 ---
 
-![Arizona EHT Group](assets/images/group_2022.webp)
+![Arizona EHT Group](assets/images/group_2022a.webp)
+
+## College of Science Outstanding Senior in Astronomy
+
+* "College of Science recognizes 10 outstanding seniors for fall 2025 semester"
+  2025/12/17
+  [UA CoS News](https://science.arizona.edu/news/college-science-recognizes-10-outstanding-seniors-fall-2025-semester);
+* "Spotlight: Hina Suzuki, College of Science Outstanding Senior in Astronomy"
+  2025/12/10
+  [Steward News](https://astro.arizona.edu/news/spotlight-hina-suzuki-college-science-outstanding-senior-astronomy)
 
 ## M87* Magnetic Fields
 
 * "Astronomers Watched a Black Hole Unexpectedly Flip Its Magnetic Field, Challenging Theoretical Models"
   2025/09/26
   [Smithsonian Magazine](https://www.smithsonianmag.com/smart-news/astronomers-watched-a-black-hole-unexpectedly-flip-its-magnetic-field-challenging-theoretical-models-180987397/)
-
 * "This black hole flipped its magnetic field"
   2025/09/23
   [Science News](https://www.sciencenews.org/article/m87-black-hole-flipped-magnetic-field)
-
 * "New images reveal clues about the feeding habits of black holes"
   2025/09/16
   [UA News](https://news.arizona.edu/news/new-images-reveal-clues-about-feeding-habits-black-holes),
@@ -25,32 +32,25 @@ short_title: News
 * "Milky Way’s central black hole spins at nearly light speed, study finds"
   2025/06/26
   [The Brighter Side](https://www.thebrighterside.news/post/milky-ways-central-black-hole-spins-at-nearly-light-speed-study-finds/)
-
 * "Is Our Black Hole Defying Physics? New AI Study Challenges Theories"
   2025/06/19
   [NDTV](https://www.ndtv.com/science/is-our-black-hole-defying-physics-new-ai-study-challenges-theories-8711147)
-
 * "AI Uncovers Wild Spin of the Milky Way’s Supermassive Black Hole"
   2025/06/16
   [SciTechDaily](https://scitechdaily.com/ai-uncovers-wild-spin-of-the-milky-ways-supermassive-black-hole/)
-
 * "AI Reveals Milky Way’s Black Hole Spins Near Top Speed"
   2025/06/15
   [Science Daily](https://www.sciencedaily.com/releases/2025/06/250614121952.htm)
-
 * "Astronomers Are Using Artificial Intelligence to Unlock the Secrets of Black Holes"
   2025/06/11
   [Wired](https://www.wired.com/story/artificial-intelligence-is-unlocking-the-secrets-of-black-holes/)
-
 * "AI Reveals Rapid Spin of Sagittarius A Black Hole"
   2025/06/09
   [AZO Quantum](https://www.azoquantum.com/News.aspx?newsID=10825)
-
 * "Self-learning neural network cracks iconic black holes"
   2025/06/06
   [UA News](https://astro.arizona.edu/news/self-learning-neural-network-cracks-iconic-black-holes),
   [USC Viterbi](https://viterbischool.usc.edu/news/2025/06/self-learning-neural-network-cracks-iconic-black-holes/)
-
 * "Throughput computing enables astronomers to use AI to decode iconic black holes"
   2025/06/06
   [EurekaAlert!](https://www.eurekalert.org/news-releases/1086641)
@@ -60,6 +60,15 @@ short_title: News
 * "Scientific Discovery with AI: Unlocking the Secrets of the Universe"
   2024
   [OpenAI Forum](https://bit.ly/openai-talk-2024)
+
+## 2024 Merrill P. Freeman Medal
+
+* "Bao 'Tintin' Nguyen: 2024 Recipient of the Merrill P. Freeman Medal"
+  2024/05/09
+  [Steward News](https://astro.arizona.edu/news/bao-tintin-nguyen-2024-recipient-merrill-p-freeman-medal)
+* "Seven graduating students to receive awards at Commencement"
+  2024/05/03
+  [UA News](https://news.arizona.edu/news/seven-graduating-students-receive-awards-commencement)
 
 ## Sgr A* Polarization
 
