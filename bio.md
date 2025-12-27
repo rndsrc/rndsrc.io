@@ -6,13 +6,13 @@ short_title: About
 {button}`Full CV <assets/ckc_cv.pdf>`
 
 *Google Scholar Rank*:
-Computational astrophysics **#21**,
+Computational astrophysics [**#21**](https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:computational_astrophysics&after_author=FT2EAIyw__8J&astart=20),
 AI for Science             **#28**,
 Gravitation                **#29**,
 Visualization              **#39**,
 Radio Astronomy            **#39**;
-*citations*:    **19,000+**;
-*h-index*:      **46**;
+*citations*:    [**19,000+**](https://scholar.google.com/citations?hl=en&user=27yWbOYAAAAJ);
+*h-index*:      **47**;
 *i10-index*:    **82**;
 *publications*: **110+**.
 
@@ -71,6 +71,8 @@ TransAmerica Trail.
 
 ## Family and Outdoor
 
+```{grid} 1 1 2 2
+
 I am a dad of two.
 My wife and I met in Boston, and we enjoys spending time outdoors.
 My connection to the outdoors began early.
@@ -80,25 +82,20 @@ Simple, affordable outings that became some of my fondest memories.
 I was a
 [Scout](https://www.facebook.com/tw8scout)
 as a teenager, where I developed outdoor and leadership skills that
-continue to shape how I engage with the outdoors.
-
-```{grid} 1 1 2 2
-
-![Profile](assets/images/ckc_2011.webp)
-
+continue to shape how I engage with the outdoors.\
+\
 After moving to the United States, I continued these activities, often
 organizing hiking and camping trips with friends.
 In the summer of 2010, I spent two months
 [biking across the United States](https://bikexus.blogspot.com/)
-between my ITC Fellowship at the
-[Center for Astrophysics | Harvard & Smithsonian](https://www.cfa.harvard.edu/)
-and my Nordita Fellowship at the
-[Nordic Institute for Theoretical Physics](https://nordita.org/).\
+between my Harvard ITC Fellowship and my Nordita Fellowship.\
 \
 Most recently, I joined
 [Troop 211 in Arizona](https://www.instagram.com/troop211az),
 where my boys are now Scouts, allowing our family to share time
 outdoors while passing along practical skills and a spirit of
 exploration.
+
+![Profile](assets/images/ckc_2011.webp)
 
 ```
