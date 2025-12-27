@@ -311,10 +311,18 @@ short_title: News
 
 ## Condensation in Two-Dimensional Turbulence
 
+```{grid} 1 1 2 2
+
 * "Dynamics of saturated energy condensation in two-dimensional turbulence"
   2012/03/28
   [Physics Review E Kaleidoscope](https://journals.aps.org/pre/kaleidoscope/pre/85/3/036315),
+* "Turbulence in a 2-dimensional Box: Pretty"
+  2012/10/19
   [Backreaction](http://backreaction.blogspot.com/2012/10/turbulence-in-2-dimensional-box-pretty.html)
+
+![Profile](assets/images/res_2012.webp)
+
+```
 
 ## Bike Across America
 
