@@ -131,6 +131,14 @@ short_title: News
   2022/05/26
   [星島日報](https://www.singtaousa.com/2022-05-26/%e5%85%a8%e7%90%83%e9%a6%96%e5%bc%b5%e9%8a%80%e6%b2%b3%e7%b3%bb%e4%b8%ad%e5%bf%83%e8%b6%85%e7%b4%9a%e9%bb%91%e6%b4%9e%e5%bd%b1%e5%83%8f%e6%9b%9d%e5%85%89-%e4%b8%ad%e5%a4%a7%e6%88%90%e6%b8%af%e5%94%af/4094775)
 
+## Black Hole Documentary
+
+![EHT Imaging Workshop](assets/images/eht_2018.webp)
+
+* "Black Holes: The Edge of All We Know"
+  2020
+  [Movie](https://www.blackholefilm.com/)
+
 ## Breakthrough Prize in Fundamental Physics
 
 * "UA researchers among 347 winners of $3 million prize"
