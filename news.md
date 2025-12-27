@@ -84,6 +84,8 @@ short_title: News
 
 ## First Images of the Galactic Center Black Hole (EHT's First Result on Sgr A*)
 
+![Donuts](assets/images/group_2022b.webp)
+
 * "First images of black hole at the centre of our galaxy"
   2023/03/16
   [Croucher Foundation](https://croucher.org.hk/en/news/first-images-of-black-hole-at-the-centre-of-our-galaxy)
