@@ -12,6 +12,8 @@ project:
   toc:
     - file: index.md
     - file: bio.md
+    - file: res.md
+    - file: dev.md
     - file: news.md
 
 site:
