@@ -158,6 +158,8 @@ short_title: News
 
 ## First Black Hole Images (EHT's First Result on M87\*)
 
+![NSF](assets/images/group_2019.webp)
+
 * "NumFOCUS tools help create the first ever image of a black hole"
   2019/10/04
   [NumFOCUS](https://numfocus.org/case-studies/first-photograph-black-hole)
