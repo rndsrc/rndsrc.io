@@ -27,19 +27,7 @@ site:
     - title: Research
       url: /res
     - title: Development
-      children:
-        - title: GitHub Profile
-          url: https://github.com/rndsrc
-        - title: AI Research
-          url: https://github.com/airsrc
-        - title: AutoDiff Applications
-          url: https://github.com/adxsrc
-        - title: Computational Interferometry
-          url: https://github.com/focisrc
-        - title: Self-Optimized Algorithms
-          url: https://github.com/luxsrc
-        - title: Scalable Computing
-          url: https://github.com/l6a
+      url: /dev
     - title: News
       url: /news
 

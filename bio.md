@@ -57,13 +57,3 @@ TransAmerica Trail.
 * 2019&emsp;\#1 Scientific Moments that Defined 2019, Popular Mechanics
 * 2010&ndash;2012&emsp;NORDITA Fellowship
 * 2007&ndash;2010&emsp;Harvard ITC Fellowship
-
-
-## Software
-
-* [GitHub Profile](https://github.com/rndsrc)
-* [AI Research](https://github.com/airsrc)
-* [AutoDiff Applications](https://github.com/adxsrc)
-* [Computational Interferometry (foci)](https://github.com/focisrc)
-* [Self-Optimized Algorithms (lux)](https://github.com/luxsrc)
-* [Scalable Computing (laniakea)](https://github.com/l6a)
