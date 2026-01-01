@@ -21,7 +21,7 @@ site:
 
   nav:
     - title: Home
-      url: /index
+      url: https://rndsrc.io
     - title: About
       url: /bio
     - title: Research
