@@ -12,8 +12,8 @@ project:
   toc:
     - file: index.md
     - file: bio.md
-    - file: res.md
-    - file: dev.md
+#   - file: res.md
+#   - file: dev.md
     - file: news.md
 
 site:
@@ -25,9 +25,9 @@ site:
     - title: About
       url: /bio
     - title: Research
-      url: /res
+      url: https://scholar.google.com/citations?hl=en&user=27yWbOYAAAAJ
     - title: Development
-      url: /dev
+      url: https://github.com/rndsrc
     - title: News
       url: /news
 
