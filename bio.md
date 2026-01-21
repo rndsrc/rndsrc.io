@@ -18,8 +18,8 @@ Radio Astronomy            **#39**;
 
 ```{grid} 1 2 2 2
 
-Continuing status (tenure-equivalent) Computational Astrophysicist and
-AI-for-Science researcher working at the intersection of machine
+Continuing status (tenured-equivalent) Computational Astrophysicist
+and AI-for-Science researcher working at the intersection of machine
 learning and large-scale scientific computing.
 Faculty member in
 [Astronomy](https://astro.arizona.edu/person/chi-kwan-ck-chan),
@@ -33,7 +33,7 @@ infrastructure.
 Developed scalable algorithms and AI-driven methods to accelerate
 scientific inference, automate data processing, and enable discovery
 from petabyte-scale datasets.
-Principal Investigator of EHT-MOVIE, aimed to produce the first
+A Principal Investigator of EHT-MOVIE, aimed to produce the first
 time-resolved movies of black holes.
 Department of Energy INCITE reviewer; evaluated AI-and
 simulation-driven projects for access to the world's most powerful
