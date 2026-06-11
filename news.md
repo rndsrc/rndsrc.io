@@ -202,7 +202,7 @@ short_title: News
   2019/04/17
   [Tucson Local Media](https://www.tucsonlocalmedia.com/news/article_9aa26a62-5bb4-11e9-b8f7-1748e0f95ab8.html)
 * 『天文史上黑洞首照片 印證相對論』
-  2029/04/16
+  2019/04/16
   [都市日報](https://www.metrodaily.hk/metro_news/天文史上黑洞首照片-印證相對論/)
 * "Black Hole Modeling in Research Data Center"
   2019/04/15
